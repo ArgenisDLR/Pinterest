@@ -2,11 +2,12 @@
 I built a Pinterest image view style application
 
 ## Images
-<img src="images/IMG_2174.PNG" width="250" > <img src="images/IMG_2175.PNG" width="250" > <img src="images/IMG_2176.PNG" width="250" >
+![](images/image.gif)  
 
-### What I Learned
+### Tech Stack
 - Networking
+- URL Session
 - JSON
-- MVVM
+- MVVM Design Pattern 
 - CollectionViews
 - AutoLayout
