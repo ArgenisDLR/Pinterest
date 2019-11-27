@@ -6,8 +6,8 @@ I built a Pinterest image view style application
 
 ### Tech Stack
 - Networking
-- URL Session
-- JSON
-- MVVM Design Pattern 
+- URLSession
+- JSON Decoder
+- MVVM 
 - CollectionViews
-- AutoLayout
+- Autolayout
