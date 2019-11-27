@@ -5,7 +5,6 @@ I built a Pinterest image view style application
 ![](images/image.gif)  
 
 ### Tech Stack
-- Networking
 - URLSession
 - JSON Decoder
 - MVVM 
